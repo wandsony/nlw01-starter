@@ -22,7 +22,7 @@
   <img alt="Ecoleta" src=".github/ecoleta.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -31,15 +31,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [SQLite](https://www.sqlite.org/index.html)
 - [Nunjucks](https://mozilla.github.io/nunjucks/)
 
-## 💻 Projeto
+## Projeto
 
 O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de resíduos de forma eficiente.
 
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto no formato através [desse link](<https://www.figma.com/file/Byw4X5etg8VCmezueyhzkC/Ecoleta-(Starter)?node-id=136%3A546>). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
-
-## 🤔 Como contribuir
+## Contribuir
 
 - Faça um fork desse repositório;
 - Cria uma branch com a sua feature: `git checkout -b minha-feature`;
@@ -47,11 +43,3 @@ Você pode visualizar o layout do projeto no formato através [desse link](<http
 - Faça push para a sua branch: `git push origin minha-feature`.
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
----
-
-
