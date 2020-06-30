@@ -1,14 +1,28 @@
 {
-  "name": "nlw",
-  "scripts": {
-    "start": "nodemon src/server.js"
-  },
-  "dependencies": {
-    "express": "^4.17.1",
-    "nunjucks": "^3.2.1",
-    "sqlite3": "^4.2.0"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.4"
-  }
+    "name": "ecoleta_rocketseat",
+    "version": "1.0.0",
+    "description": "",
+    "main": "src/server.js",
+    "scripts": {
+        "start": "nodemon src/server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wandsony/ecoleta_rocketseat.gt"
+    },
+    "keywords": [],
+    "author": "Wandson Gomes",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/wandsony/ecoleta_rocketseat/issues"
+    },
+    "homepage": "https://github.com/wandsony/ecoleta_rocketseat#readme",
+    "dependencies": {
+        "express": "^4.17.1",
+        "nunjucks": "^3.2.1",
+        "sqlite3": "^4.2.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.4"
+    }
 }
