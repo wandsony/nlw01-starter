@@ -28,3 +28,5 @@ O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de 
 - Faça push para a sua branch: `git push origin minha-feature`.
 Esse projeto foi desenvolvido com os ensinamentos da rocketseat
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+
+Feito por  [Wandson Gomes](https://www.linkedin.com/in/wandson-gomes-a759ba51/) 💻
